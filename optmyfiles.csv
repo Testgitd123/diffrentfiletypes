@@ -1,0 +1,14 @@
+﻿ID,Work Item Type,Title,Assigned To,State,Tags,Severity
+27349,Bug,AP-100: For some of the facilities folder is not present in share point ,Marlon Roberts <Marlon.Roberts@tenethealth.net>,New,AP100; MDL,High
+27927,Bug,AP-100: When user clicks on Approve button in Approver workbasket then no action is getting performed,Chris Parker <Chris.Parker@tenethealth.net>,New,AP100; DEV; IPPR,Critical
+28159,Bug,AP-100: When user adds an attachment on AP-100 request with the help of AP-Processor and returns same request to AP-100 then document attached by AP-Processor is not visible in AP-100,Melody Tseng <Melody.Tseng@tenethealth.net>,New,AP100; DEV; IPPR; MDL,High
+28173,Bug,AP-100: When user attaches file whose name is unconditionally long then in the UI of application that file name does not display properly,Melody Tseng <Melody.Tseng@tenethealth.net>,New,AP100; MDL,High
+28175,Bug,AP-100: When user tries to upload document with special characters in file name then such files are not getting uploaded in attachments  ,Melody Tseng <Melody.Tseng@tenethealth.net>,New,AP100; MDL,High
+28176,Bug,AP-100: When user Rename/Deletes the file in share point then same is not reflecting in power app,Melody Tseng <Melody.Tseng@tenethealth.net>,New,AP100; MDL,High
+28177,Bug,AP-100: user can attach newly created empty file via attachment and after same is not editable to user,Melody Tseng <Melody.Tseng@tenethealth.net>,New,AP100; MDL,Low
+28178,Bug,AP-100: User can able to edit excel files when opened as a attachments ,Melody Tseng <Melody.Tseng@tenethealth.net>,New,AP100; MDL,Low
+25284,Bug,AP-100: When submits a Request from PA test user then User is able to see error message mentioned bellow,Marlon Roberts <Marlon.Roberts@tenethealth.net>,Active,AP100; MDL,High
+27560,Bug,AP-100: Contents Present in Returned Email notification visible in application are different than what is mentioned in build doc.,Melody Tseng <Melody.Tseng@tenethealth.net>,Active,AP100; DEV; MDL,Low
+27561,Bug,AP-100: Contents Present in Canceled Email notification visible in application are different than what is mentioned in build doc.,Melody Tseng <Melody.Tseng@tenethealth.net>,Active,AP100; DEV; MDL,Low
+28014,Bug,AP-100: Research screen : Names are different mentioned in Power Bi report than Build doc.,Divya Mukunde <Divya.Mukunde@tenethealth.net>,Active,AP100; DEV; MDL,Medium
+28018,Bug,AP-100: Research screen : When user searches with the help of Created on and uploaded on then its not working properly,Divya Mukunde <Divya.Mukunde@tenethealth.net>,Active,AP100; MDL,Medium
